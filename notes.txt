@@ -1,0 +1,23 @@
+
+https://github.com/dappuniversity/20_minute_dapp
+https://youtu.be/KkZ6iYnSDRw
+
+1. Install Metamask chrome browser extension.
+2. install or import web3.js file.
+3. install Ganache for etherium chain testing.
+4. Write and deploy smart contract using remix.
+
+1. write smart contract in remix.
+2. compile the contract.
+3. In remix, deploy the contract to Ganache. (choose env as 'web3 provider'. It will then connect to Ganache and will show various accounts in Ganache.
+4. After compilation, copy the ABI address.
+5. After deployment, copy the address where its deployed.
+
+https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js
+Ganache is running at - http://localhost:7545
+
+Application - file:///E:/dapps/20_minute_dapp-master/index.html
+
+
+metmask secret - 
+earth grocery fee frozen female mango repeat audit broom again notice gesture
